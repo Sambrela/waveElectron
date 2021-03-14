@@ -222,9 +222,9 @@ function index({ account }) {
       <div className="">
         <img width="90" src={Wave} />
       </div>
-      <div className="amount mb-1">Unfreeze WAVE</div>
+      <div className="amount mb-1">Freeze WAVE</div>
       <div className="mb-5" style={{ color: "#C3EEFD", fontWeight: "bold" }}>
-        +25% Yearly yield
+       
       </div>
 
       <div className="transactionsCards">
