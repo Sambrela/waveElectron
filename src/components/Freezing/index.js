@@ -340,7 +340,7 @@ function index({ account }) {
           <span>{balance?.blocked} WAVE</span>
         </div>
         <div>
-          <span>Total balance</span>
+          <span>Total Rewarded</span>
 
           <svg
             xmlns="http://www.w3.org/2000/svg"
